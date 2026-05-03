@@ -1,0 +1,16 @@
+# Python-Skripte (überall)
+*.py
+
+# Zukunft-SQLs (überall)
+*_zukunft.sql
+
+# Visual Studio & IDE Müll (überall)
+.vs/
+**/.vs/
+*.slnx
+*.sqlite
+.vscode/
+
+# Backup & Temp Dateien von draw.io
+*draw.io.bkp
+*draw.io.dtmp
