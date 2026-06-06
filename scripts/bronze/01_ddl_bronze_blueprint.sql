@@ -40,7 +40,7 @@ IF OBJECT_ID('bronze.crm_cust_info', 'U') IS NOT NULL DROP TABLE bronze.crm_cust
 CREATE TABLE bronze.crm_cust_info (
     [cst_id] NVARCHAR(MAX), [cst_key] NVARCHAR(MAX), [cst_firstname] NVARCHAR(MAX),
     [cst_lastname] NVARCHAR(MAX), [cst_marital_status] NVARCHAR(MAX), [cst_gndr] NVARCHAR(MAX),
-    [cst_create_date] NVARCHAR(MAX)
+    [cst_create_date] DATE
 );
 GO
 
