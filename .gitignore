@@ -10,6 +10,9 @@
 *.slnx
 *.sqlite
 .vscode/
+*.bkp
+*.dtmp
+*.$*
 
 # Backup & Temp Dateien von draw.io
 *draw.io.bkp
