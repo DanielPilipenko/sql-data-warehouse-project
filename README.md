@@ -192,11 +192,11 @@ sql-data-warehouse-project/
 
 ## 🗺️ Roadmap
 
-This data warehouse is the foundation for the analytics phase of the project:
+This data warehouse is the foundation for the analytics phase of the project — all stages are complete:
 
 - [x] **Data Warehouse** — Medallion architecture, ETL, star schema *(this repo)*
-- [ ] **Exploratory Data Analysis (EDA) Project** — Profiling dimensions, measures, and ranking analyses on the Gold layer
-- [ ] **SQL Advanced Data Analytics Project** — Trends over time, cumulative & performance analysis, segmentation, and reporting views
+- [x] **Exploratory Data Analysis (EDA)** — profiling dimensions, measures, and ranking analyses on the Gold layer → [sql-data-analytics-project](https://github.com/DanielPilipenko/sql-data-analytics-project)
+- [x] **Advanced Data Analytics** — trends over time, cumulative & performance analysis, segmentation, and the report views `gold.report_customers` / `gold.report_products` → [sql-data-analytics-project](https://github.com/DanielPilipenko/sql-data-analytics-project)
 
 ---
 
